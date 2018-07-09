@@ -1,5 +1,5 @@
 permalink: /:year:month:day/:title
-url: http://h01000110.github.io/windows-95
+url: http://fudgyyart.co.jp
 baseurl: /project
 
 # variables
@@ -19,6 +19,7 @@ sass:
 
 # Markdown
 markdown: kramdown
+remote_theme: windows-95
 kramdown:
   input: GFM
   syntax_highlighter_opts:
